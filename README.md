@@ -22,7 +22,7 @@ https://git-scm.com/
 
 ## Instalación
 ### 1 Paso
-**1 forma**. Dar clic en Code y luego en Donwload Zip
+**1 forma**. Dar clic en Code y luego en Download Zip
 **2 forma.** Crear una carpeta, ingresar a git bash y ejecutar
 
    git clone https://github.com/CristianPerezDomper/CrudProductoCristianPerez
@@ -60,3 +60,6 @@ https://git-scm.com/
 ![](https://i.imgur.com/CC9eFCq.jpeg)
 ### Eliminar producto
 ![](https://i.imgur.com/CJEUOQG.jpeg)
+
+## Conclusión del proyecto y ventajas
+- El presente proyecto permite una mayor flexibilidad en la implementación de nuevas funcionalidades y cambios en el sistema, utilice paquete de Automapper que permite el mapeo de entidad.
